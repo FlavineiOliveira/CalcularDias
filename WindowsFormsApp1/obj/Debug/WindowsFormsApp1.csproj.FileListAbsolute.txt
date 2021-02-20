@@ -1,0 +1,10 @@
+D:\GIT\WebViewCustomizado\WF.CalcularDias\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\GIT\WebViewCustomizado\WF.CalcularDias\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\GIT\WebViewCustomizado\WF.CalcularDias\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\GIT\WebViewCustomizado\WF.CalcularDias\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\GIT\WebViewCustomizado\WF.CalcularDias\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\GIT\WebViewCustomizado\WF.CalcularDias\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\GIT\WebViewCustomizado\WF.CalcularDias\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\GIT\WebViewCustomizado\WF.CalcularDias\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\GIT\WebViewCustomizado\WF.CalcularDias\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\GIT\WebViewCustomizado\WF.CalcularDias\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
