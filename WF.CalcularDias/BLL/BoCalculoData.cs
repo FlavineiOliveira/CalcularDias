@@ -73,14 +73,17 @@ namespace CalcularDias.BLL
 
                 int qtdDiasMinutos = 0;
 
-                while((qtdMinutos - minutosPeriodo) > -1)
+                if(minutosPeriodo > 0)
                 {
-                    qtdDiasMinutos++;
+                    while ((qtdMinutos - minutosPeriodo) > -1)
+                    {
+                        qtdDiasMinutos++;
 
-                    qtdMinutos -= minutosPeriodo;
+                        qtdMinutos -= minutosPeriodo;
 
-                    if (qtdMinutos > 1)
-                        qtdMinutos--;    
+                        if (qtdMinutos > 1)
+                            qtdMinutos--;
+                    }
                 }
 
                 int minutosExcedentes = qtdMinutos;

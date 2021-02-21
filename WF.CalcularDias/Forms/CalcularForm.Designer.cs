@@ -108,7 +108,7 @@ namespace CalcularDias.Forms
             this.ckbDiaUtil.Location = new System.Drawing.Point(14, 166);
             this.ckbDiaUtil.Name = "ckbDiaUtil";
             this.ckbDiaUtil.Size = new System.Drawing.Size(222, 21);
-            this.ckbDiaUtil.TabIndex = 16;
+            this.ckbDiaUtil.TabIndex = 5;
             this.ckbDiaUtil.Text = "Considerar apenas dias úteis?";
             this.ckbDiaUtil.UseVisualStyleBackColor = true;
             // 
@@ -118,7 +118,7 @@ namespace CalcularDias.Forms
             this.mtxtMinutos.Mask = "00000";
             this.mtxtMinutos.Name = "mtxtMinutos";
             this.mtxtMinutos.Size = new System.Drawing.Size(166, 22);
-            this.mtxtMinutos.TabIndex = 15;
+            this.mtxtMinutos.TabIndex = 2;
             this.mtxtMinutos.ValidatingType = typeof(int);
             // 
             // mtxtHoraFim
@@ -127,7 +127,7 @@ namespace CalcularDias.Forms
             this.mtxtHoraFim.Mask = "90:00";
             this.mtxtHoraFim.Name = "mtxtHoraFim";
             this.mtxtHoraFim.Size = new System.Drawing.Size(166, 22);
-            this.mtxtHoraFim.TabIndex = 14;
+            this.mtxtHoraFim.TabIndex = 4;
             this.mtxtHoraFim.ValidatingType = typeof(System.DateTime);
             // 
             // mtxtHoraInicio
@@ -136,7 +136,7 @@ namespace CalcularDias.Forms
             this.mtxtHoraInicio.Mask = "90:00";
             this.mtxtHoraInicio.Name = "mtxtHoraInicio";
             this.mtxtHoraInicio.Size = new System.Drawing.Size(166, 22);
-            this.mtxtHoraInicio.TabIndex = 13;
+            this.mtxtHoraInicio.TabIndex = 3;
             this.mtxtHoraInicio.ValidatingType = typeof(System.DateTime);
             // 
             // mtxtResultado
@@ -146,7 +146,7 @@ namespace CalcularDias.Forms
             this.mtxtResultado.Mask = "00/00/0000 90:00";
             this.mtxtResultado.Name = "mtxtResultado";
             this.mtxtResultado.Size = new System.Drawing.Size(560, 22);
-            this.mtxtResultado.TabIndex = 12;
+            this.mtxtResultado.TabIndex = 7;
             this.mtxtResultado.ValidatingType = typeof(System.DateTime);
             // 
             // mtxtData
@@ -155,7 +155,7 @@ namespace CalcularDias.Forms
             this.mtxtData.Mask = "00/00/0000 90:00";
             this.mtxtData.Name = "mtxtData";
             this.mtxtData.Size = new System.Drawing.Size(166, 22);
-            this.mtxtData.TabIndex = 11;
+            this.mtxtData.TabIndex = 1;
             this.mtxtData.ValidatingType = typeof(System.DateTime);
             // 
             // label5
@@ -172,7 +172,7 @@ namespace CalcularDias.Forms
             this.btnCalcular.Location = new System.Drawing.Point(432, 51);
             this.btnCalcular.Name = "btnCalcular";
             this.btnCalcular.Size = new System.Drawing.Size(142, 92);
-            this.btnCalcular.TabIndex = 8;
+            this.btnCalcular.TabIndex = 6;
             this.btnCalcular.Text = "Calcular";
             this.btnCalcular.UseVisualStyleBackColor = true;
             this.btnCalcular.Click += new System.EventHandler(this.btnCalcular_Click);
